@@ -10,7 +10,7 @@ import com.google.android.material.textfield.TextInputEditText
 import com.google.android.material.textfield.TextInputLayout
 
 class AgregarPersona : AppCompatActivity() {
-    lateinit var txtNombre: EditText
+    lateinit var txtNombre:EditText
     lateinit var txtDomicilio:EditText
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
